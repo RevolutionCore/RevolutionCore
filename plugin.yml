@@ -1,0 +1,9 @@
+name: RevolutionCore
+author: EvanOG
+main: me.evanog.revolution.Core
+version: 1.0
+commands:
+  mapkit:
+  reloadrevolution:
+  cobble:
+  spawn: 
